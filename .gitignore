@@ -1,0 +1,11 @@
+*
+!.gitignore
+!Makefile
+!README.md
+!src/
+!src/example.c
+!src/main.c
+!swg/
+!swg/__init__.py
+!swg/example.i
+!test.py
